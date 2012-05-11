@@ -12,7 +12,7 @@ mixins
 !Example methodsFor: 'initialization'!
 
 initialize
-	"comment stating purpose of message"
+	"initialize mixins collection"
 	mixins := Dictionary new.
 ! !
 
